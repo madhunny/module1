@@ -1,0 +1,74 @@
+body {
+    background: url(https://www.alpadia.com/sites/default/files/styles/hero_banner_rh_lg/public/camp/featured/bath-summer-camp-hero.jpg?itok=cGLkEiud);
+}
+
+.page {
+    font-family: "PT Sans", Arial, sans-serif;
+    color: #000;
+    text-transform: uppercase;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(249 249 251);
+    font-family: cursive;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    list-style: none;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    font-family: cursive;
+}
+
+h1 {
+    padding: 10px 20px;
+    color: #7e7c0c;
+    font-size: 46px;
+}
+
+h2 {
+    padding: 30px 20px;
+    color: #1e0c7e;
+    font-size: 32px;
+    background-color: rgb(127 160 208 / 60%);
+    margin-bottom: 50px;
+}
+
+.points {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.points-info {
+    margin: 10px 20px;
+    padding: 40px 10px;
+    background-color: rgb(127 160 208 / 80%);
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    color: #e5e120;
+}
+
+.footer-note {
+    margin: 30px 20px;
+}
