@@ -1,5 +1,6 @@
 body {
     background: url(https://www.alpadia.com/sites/default/files/styles/hero_banner_rh_lg/public/camp/featured/bath-summer-camp-hero.jpg?itok=cGLkEiud);
+    background-size: cover;
 }
 
 .page {
